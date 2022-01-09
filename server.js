@@ -20,7 +20,7 @@ app.route('/MSG')
 
     console.log(req.body)
 
-    const TextList = ["7865649969", "7863157175", "7863079021", "3058511342"]
+    const TextList = ["7865649969", "7863157175", "7863079021", "3058511342", "3057339632", "3057947791", "3057782576" , "3057339654"];
 
 
     for (let index = 0; index < TextList.length; index++) {
