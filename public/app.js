@@ -41,14 +41,14 @@ async function postData(url = '', data = {}) {
     if(today  ==  "01/10/2022"){
         console.log("Weekly Reminder");
 
-    postData("http://localhost:3000/MSG", {
+    postData("http://www.joeygetsnobitches.com/MSG", {
         "DaysLeft": "28 Days Left Til Gay"
         })
 }
     if(today  == "01/17/2022"){
         console.log("Weekly Reminder");
   
-    postData("http://localhost:3000/MSG", {
+    postData("http://www.joeygetsnobitches.com/MSG", {
         "DaysLeft": "21 Days Left Til Gay"
         })
 
@@ -56,19 +56,19 @@ async function postData(url = '', data = {}) {
     if(today  == "01/24/2022") {
         console.log("Weekly Reminder");
 
-        postData("http://localhost:3000/MSG", {
+        postData("http://www.joeygetsnobitches.com/MSG", {
             "DaysLeft": "14 Days Left Til Gay"
             })
 }
     if(today  == "01/31/2022"){
         console.log("Weekly Reminder");
 
-        postData("http://localhost:3000/MSG", {
+        postData("http://www.joeygetsnobitches.com/MSG", {
             "DaysLeft": "7 Days Left Til Gay"
             })
 }
     if(today  == "02/07/2022"){
-        postData("http://localhost:3000/MSG", {
+        postData("http://www.joeygetsnobitches.com/MSG", {
             "DaysLeft": "1 Day Left Til Gay"
             })
 }
