@@ -87,7 +87,7 @@ async function postData(url = '', data = {}) {
   
           //do something later when date is reached
           if (distance < 0) {
-            document.getElementById("headline").innerText = "It's my birthday!";
+            document.getElementById("headline").innerText = "Joey Is Gay. LMAO";
             document.getElementById("countdown").style.display = "none";
             document.getElementById("content").style.display = "block";
             clearInterval(x);
